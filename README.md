@@ -1,5 +1,9 @@
 # docker-compose-laravel-env
 
+## prerequisites
+sudo apt install composer
+
+## setup
 Get a perfectly set-up laravel environment by simply cloning this repo, navigating into the folder with
 ```
 cd docker-compose-laravel-env
