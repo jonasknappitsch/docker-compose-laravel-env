@@ -19,7 +19,7 @@ Now, as everything is set up, run your docker container (including NGINX, MySQL,
 docker-compose up
 ```
 
-Your laravel application should now be running on **localhost:8088**.
+Your laravel application should now be running on **localhost:80**.
 
 Once you're finished, simply shut everything down with `docker-compose down`.
 
